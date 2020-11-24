@@ -6,3 +6,5 @@
     * October 2020 - 
       - [Fix for tags in the filter panel](https://github.com/mozilla/pontoon/pull/1726#issuecomment-722726378)
       - [Do not use text-transform on localizable text](https://github.com/mozilla/pontoon/pull/1728#pullrequestreview-529517208)
+    * Novemeber 2020
+      - [Interactive tour shows wrong elements for Machinery/Locales](https://github.com/mozilla/pontoon/pull/1746)
