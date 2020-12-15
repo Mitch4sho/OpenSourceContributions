@@ -8,3 +8,6 @@
       - [Do not use text-transform on localizable text](https://github.com/mozilla/pontoon/pull/1728#pullrequestreview-529517208)
     * Novemeber 2020
       - [Interactive tour shows wrong elements for Machinery/Locales](https://github.com/mozilla/pontoon/pull/1746)
+    * December 2020
+      - [FTL Unable to get back to the initial Machinery state after search](https://github.com/mozilla/pontoon/pull/1767)
+      - [](Add ability to enable projects with read-only locales only)
