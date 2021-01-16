@@ -11,3 +11,5 @@
     * December 2020
       - [FTL Unable to get back to the initial Machinery state after search](https://github.com/mozilla/pontoon/pull/1767)
       - [Add ability to enable projects with read-only locales only](https://github.com/mozilla/pontoon/pull/1796)
+    * Janaury 2021
+      - [Improve visibility of pinned comments](https://github.com/mozilla/pontoon/pull/1815)
