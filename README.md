@@ -1,5 +1,5 @@
 # OpenSourceContributions
-
+![image info](https://www.schooleducationgateway.eu/files/png5/adobestock_236977220-converted_edited.png)
 
 ### Mozilla/ Pontoon
   * Provided several patches ranging form simple fixes to adding new features
