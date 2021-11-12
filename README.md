@@ -13,3 +13,5 @@
       - [Add ability to enable projects with read-only locales only](https://github.com/mozilla/pontoon/pull/1796)
     * Janaury 2021
       - [Improve visibility of pinned comments](https://github.com/mozilla/pontoon/pull/1815)
+    * November 2021
+      - [Add ability to reveal siblings strings](https://github.com/mozilla/pontoon/pull/1866)
