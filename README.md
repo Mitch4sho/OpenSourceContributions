@@ -16,4 +16,4 @@
     * November 2021
       - [Add ability to reveal siblings strings](https://github.com/mozilla/pontoon/pull/1866)
     * Janaury 2022
-     - [refactor pinned comments to be only in pinned comment section](https://github.com/mozilla/pontoon/pull/2397)
+      - [refactor pinned comments to be only in pinned comment section](https://github.com/mozilla/pontoon/pull/2397)
